@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Node package files
+package-lock.json
+package.json
+
+# JavaScript files
+*.js
+*.mjs
+*.cjs
+
+# Opcionalmente, también puedes ignorar los archivos JS en subdirectorios:
+**/*.js
+**/*.mjs
+**/*.cjs
