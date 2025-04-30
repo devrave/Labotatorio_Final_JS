@@ -5,12 +5,3 @@ node_modules/
 package-lock.json
 package.json
 
-# JavaScript files
-*.js
-*.mjs
-*.cjs
-
-# Opcionalmente, también puedes ignorar los archivos JS en subdirectorios:
-**/*.js
-**/*.mjs
-**/*.cjs
